@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; gap: 15px;">
+<div style="display: flex;  gap: 15px;">
   <img src="https://github.com/user-attachments/assets/a78b90c1-563e-42ca-8686-0f1c0d942127" width="100"/>
   
   <div style="display: flex; gap: 15px;">
