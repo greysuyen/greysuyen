@@ -9,8 +9,6 @@
   <img src="https://github.com/user-attachments/assets/1aebc30c-53c6-46df-b031-c029594650ac" width="90" height="90" />
   <img src="https://github.com/user-attachments/assets/92c1ed8e-c19d-4af7-81eb-c93bee995d9d" width="90" height="90" />
   <img src="https://github.com/user-attachments/assets/362a91af-40b0-4209-bed9-a1014df8dbef" width="90" height="90" />
-
-
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=greysuyen&theme=gruvbox&no-frame=true&margin-w=15&column=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysuyen&layout=compact&theme=tokyonight)
